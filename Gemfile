@@ -27,5 +27,3 @@ if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
 
-source 'https://rubygems.org'
-gem 'github-pages', '>=104', group: :jekyll_plugins
